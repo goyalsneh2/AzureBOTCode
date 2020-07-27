@@ -1,0 +1,46 @@
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CognitiveModels\FlightBooking.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\DeploymentTemplates\new-rg-parameters.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\DeploymentTemplates\preexisting-rg-parameters.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\DeploymentTemplates\template-with-new-rg.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\DeploymentTemplates\template-with-preexisting-rg.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\appsettings.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.deps.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.runtimeconfig.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.runtimeconfig.dev.json
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.dll
+D:\BOT POC\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.pdb
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.csprojAssemblyReference.cache
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.AssemblyInfoInputs.cache
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.AssemblyInfo.cs
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.csproj.CoreCompileInputs.cache
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.RazorAssemblyInfo.cache
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.RazorAssemblyInfo.cs
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.RazorTargetAssemblyInfo.cache
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.dll
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.pdb
+D:\BOT POC\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.genruntimeconfig.cache
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CognitiveModels\FlightBooking.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\DeploymentTemplates\new-rg-parameters.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\DeploymentTemplates\template-with-new-rg.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.deps.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.runtimeconfig.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.runtimeconfig.dev.json
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.dll
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\bin\Debug\netcoreapp2.2\CoreBot.pdb
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.csprojAssemblyReference.cache
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.AssemblyInfoInputs.cache
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.AssemblyInfo.cs
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.csproj.CoreCompileInputs.cache
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.RazorAssemblyInfo.cache
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.RazorAssemblyInfo.cs
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.RazorTargetAssemblyInfo.cache
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.dll
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.pdb
+C:\Users\snswaroo\Desktop\AzureBOTCode\MyCoreBotWithTests\CoreBot\obj\Debug\netcoreapp2.2\CoreBot.genruntimeconfig.cache
